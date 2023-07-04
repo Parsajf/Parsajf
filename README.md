@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Parsajf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
