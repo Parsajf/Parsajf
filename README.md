@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Parsa 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&size=35&pause=1000&width=435&lines=A+Python+Developer)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on my python projects to imporve them.
 - 🌱 I’m currently learning **AI, Data Science & ...** .
 - 🛰 I’m looking to collaborate on almost anything.
