@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Parsa 👋</h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15&theme=oldie&title=Stars,Followers,Commits,Issues,PullRequest,Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15&theme=darkhub&title=Stars,Followers,Commits,Issues,PullRequest,Reviews)
 
 - 🔭 I’m currently working on my python projects to imporve them.
 - 🌱 I’m currently learning **AI, Data Science & ...** .
