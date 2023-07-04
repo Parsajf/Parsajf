@@ -11,6 +11,8 @@
 ### Laugh a little
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+[![Telegram](https://img.icons8.com/?size=1x&id=63306&format=png)](t.me/pjafm)
 <!--
 <h1 align="center">Hi, I'm Parsa 👋</h1>
 
