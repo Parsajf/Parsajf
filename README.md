@@ -14,6 +14,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
+---
+
 [![Email](https://img.icons8.com/?size=1x&id=37246&format=png)]()[![Linkedin](https://img.icons8.com/?size=1x&id=13930&format=png)]()[![Insta](https://img.icons8.com/?size=1x&id=Xy10Jcu1L2Su&format=png)]()[![Tele](https://img.icons8.com/?size=1x&id=63306&format=png)]()[![Whatsapp](https://img.icons8.com/?size=1x&id=16713&format=png)]()
 <!--
 <h1 align="center">Hi, I'm Parsa 👋</h1>
