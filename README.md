@@ -8,8 +8,6 @@
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Parsajf&theme=transparent&hide_border=true&border_radius=1000&date_format=j%20M%5B%20Y%5D&fire=EB6600&ring=EB6600&currStreakNum=EB6600&currStreakLabel=EB6600&hide_total_contributions=true)](https://git.io/streak-stats)[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parsajf&theme=transparent)]
 
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Parsajf&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Stars,Followers,Commits,Issues,PullRequest,Reviews&theme=juicyfresh)
 **Parsajf/Parsajf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
