@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Parsa 👋</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Parsajf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+- 🔭 I’m currently working on my python projects to imporve them.
+- 🌱 I’m currently learning **AI, Data Science & ...**.
+- 🛰 I’m looking to collaborate on almost anything.
 
 <!--
 **Parsajf/Parsajf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
