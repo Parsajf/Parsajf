@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=063ff9&height=200&width=20&section=header&text=Hi👋,%20I'm%20Parsa&fontSize=50&fontColor=f5f6f7&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&size=35&pause=1000&width=435&lines=A+Python+Developer)](https://git.io/typing-svg)<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="38" height="38" /></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&size=35&pause=1000&width=435&lines=A+Python+Developer)](https://git.io/typing-svg)<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 - 🔭 I’m currently working on my python projects to imporve them.
 - 🌱 I’m currently learning **AI, Data Science & ...** .
