@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Parsa 👋</h1>
----
 
 - 🔭 I’m currently working on my python projects to imporve them.
 - 🌱 I’m currently learning **AI, Data Science & ...**.
