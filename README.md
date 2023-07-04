@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning **AI, Data Science & ...** .
 - 🛰 I’m looking to collaborate on almost anything.
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Parsajf&theme=transparent&text_color=818182&icon_color=edd011)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
-
 <!--
 **Parsajf/Parsajf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
