@@ -4,9 +4,9 @@
 
 #### I'm
 
-- 🔭 I’m currently working on my python projects to imporve them.
-- 🌱 I’m currently learning **AI, Data Science & ...** .
-- 🛰 I’m looking to collaborate on almost anything.
+- 🔭 currently working on my python projects to imporve my skills.
+- 🌱 currently learning **AI, Data Science & ...** .
+- 🛰 looking to collaborate on almost anything.
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parsajf&theme=transparent)[![GitHub Streak](https://streak-stats.demolab.com?user=Parsajf&theme=transparent&hide_border=true&border_radius=1000&date_format=j%20M%5B%20Y%5D&fire=EB6600&ring=EB6600&currStreakNum=EB6600&currStreakLabel=EB6600&hide_total_contributions=true)](https://git.io/streak-stats)
 
